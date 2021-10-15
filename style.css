@@ -84,3 +84,7 @@
     text-align: center;
     color: #FFFFFF;
 }
+
+.header__content-text span{
+    font-weight: bold;
+}
